@@ -11,7 +11,7 @@ In this tutorial, we will add users(employees) to our domain and configure Group
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Virtual Network inside Azure Resource Group
-- Powershell
+- RDP
 
 <h2>Operating Systems Used </h2>
 
